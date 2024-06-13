@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCTest1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCTest1Doc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCTest1View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgImgInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDIgZengLiang.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgHistogram.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PointTrans.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgPointInvert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgInverse_V.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIg_Tran_V.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIg_Tran_Reverse_L.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIg_Tran_L.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgLinerPara.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgPointStre.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgBitPlaneSlicing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGammaTran.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgSmooth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMidFilter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg_EnhaSharp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMorphMenu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgPointThre.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgPointWin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgFilter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGeoTran.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGeoRota.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgGeoZoom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DIBAPI.H">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgApplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDlgApplication2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCTest1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCTest1Doc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCTest1View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgImgInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDIgZengLiang.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgHistogram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PointTrans.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgPointInvert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgInverse_V.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIg_Tran_V.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIg_Tran_Reverse_L.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIg_Tran_L.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgLinerPara.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgPointStre.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgBitPlaneSlicing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGammaTran.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgSmooth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMidFilter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_EnhaSharp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMorphMenu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgPointThre.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgPointWin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgFilter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGeoTran.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGeoRota.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgGeoZoom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DIBAPI.CPP">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgApplication.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDlgApplication2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCTest1.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCTest1.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="resource.hm">
+      <Filter>头文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCTest1Doc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MFCTest1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
