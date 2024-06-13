@@ -1,6 +1,5 @@
 # DIP_CourseDesign
 2024年数字图像处理课程设计
-# 图像处理课程设计 README
 
 ## 课程设计概述
 
