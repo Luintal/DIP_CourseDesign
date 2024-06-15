@@ -1,0 +1,244 @@
+﻿  pch.cpp
+  CDIgZengLiang.cpp
+  CDlgApplication.cpp
+  CDlgApplication2.cpp
+  CDlgFilter.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(135,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+  CDlgGeoZoom.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(136,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(137,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(138,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(139,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(140,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(141,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(142,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(143,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(144,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(145,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(173,22): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(178,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(179,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(180,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(181,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(182,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(183,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(184,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(185,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(186,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(187,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(188,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(221,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(222,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(223,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(224,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(225,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(226,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(227,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(228,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(229,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(230,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(231,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(264,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(265,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(266,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(267,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(268,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(269,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(270,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(271,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(272,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(273,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(274,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(307,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(308,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(309,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(310,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(311,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(312,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(313,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(314,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(315,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(316,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(317,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(350,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(351,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(352,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(353,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(354,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(355,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(356,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(357,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(358,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(359,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(360,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(382,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(383,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(384,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(385,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(386,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(387,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(388,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(389,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(390,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(391,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(392,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(417,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(418,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(419,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(420,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(421,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(422,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(423,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(424,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(425,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(426,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(427,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(446,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(447,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(448,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(449,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(450,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(451,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(452,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(453,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(454,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(455,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(456,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(474,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(475,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(476,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(477,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(478,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(479,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(480,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(481,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(482,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(483,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(484,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(696,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgFilter.cpp(802,9): warning C4101: “p”: 未引用的局部变量
+  CDlgHistogram.cpp
+  CDlgImgInfo.cpp
+  CDlgInverse_V.cpp
+  CDlgLinerPara.cpp
+  CDlgPointInvert.cpp
+  CDlgPointThre.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgPointThre.cpp(338,19): warning C4244: “=”: 从“long”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgPointThre.cpp(575,9): warning C4101: “lpDst”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgPointThre.cpp(665,9): warning C4101: “lpDst”: 未引用的局部变量
+  CDlgPointWin.cpp
+  CDlgSmooth.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(235,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(236,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(237,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(238,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(239,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(247,3): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(256,4): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(266,4): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\CDlgSmooth.cpp(276,4): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+  DIg_Tran_L.cpp
+  DIg_Tran_Reverse_L.cpp
+  DIg_Tran_V.cpp
+  DlgBitPlaneSlicing.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgBitPlaneSlicing.cpp(163,10): warning C4101: “err”: 未引用的局部变量
+  DlgGammaTran.cpp
+  DlgGeoRota.cpp
+  DlgGeoTran.cpp
+  正在生成代码...
+  正在编译...
+  DlgMidFilter.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(73,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(74,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(75,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(76,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(92,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(93,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(94,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(95,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(111,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(112,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(113,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(114,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(123,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(124,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(125,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgMidFilter.cpp(126,2): warning C4312: “类型强制转换”: 从“BOOL”转换到更大的“CEdit *”
+  DlgMorphMenu.cpp
+  DlgPointStre.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DlgPointStre.cpp(483,30): warning C4244: “=”: 从“LONG”转换到“BYTE”，可能丢失数据
+  Dlg_EnhaSharp.cpp
+  MainFrm.cpp
+  MFCTest1.cpp
+  MFCTest1Doc.cpp
+  MFCTest1View.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(19,9): warning C4005: “PI”: 宏重定义
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(586,61): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(653,34): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(1408,9): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(1409,9): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(2517,12): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(2610,12): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(2719,12): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(2811,12): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4689,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4690,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4787,29): warning C4244: “=”: 从“LONG”转换到“WORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4789,30): warning C4244: “=”: 从“LONG”转换到“WORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4791,18): warning C4244: “=”: 从“LONG”转换到“WORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4793,18): warning C4244: “=”: 从“LONG”转换到“WORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\function.h(4804,28): warning C4244: “=”: 从“LONG”转换到“WORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\GeoTrans.h(8,9): warning C4005: “PI”: 宏重定义
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(509,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(537,22): warning C4101: “pTable1”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(1066,17): warning C4101: “lpSrc”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(1122,17): warning C4101: “lpSrc”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(1201,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(2419,15): warning C4309: “=”: 截断常量值
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(3290,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(3290,45): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(4652,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(4731,9): warning C4005: “MAX”: 宏重定义
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5330,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5331,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5382,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5383,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5405,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5406,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5429,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5430,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5468,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5469,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5579,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\MFCTest1View.cpp(5580,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Dib.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\Dib.cpp(247,14): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\Dib.cpp(320,28): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  DIBAPI.CPP
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DIBAPI.CPP(567,14): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DIBAPI.CPP(744,29): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\DIBAPI.CPP(1212,60): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+  PointTrans.cpp
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(270,29): warning C4244: “=”: 从“LONG”转换到“BYTE”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(677,7): warning C4101: “lLineBytes”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(670,17): warning C4101: “lpSrc”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(673,7): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(729,17): warning C4101: “lpSrc”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(732,7): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(813,17): warning C4101: “lpSrc”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(816,7): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1049,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1098,19): warning C4101: “pTable1”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1244,7): warning C4101: “j”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1243,7): warning C4101: “i”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1388,23): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1390,17): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1392,17): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1329,36): warning C4101: “lpI1”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1329,24): warning C4101: “lpH1”: 未引用的局部变量
+C:\Users\Lujintao\Desktop\数字图像处理\课程设计\MFCTest1\PointTrans.cpp(1329,30): warning C4101: “lpS1”: 未引用的局部变量
+  stdafx.cpp
+  正在生成代码...
+MFCTest1.rc(1241): fatal error RC1015: cannot open include file 'res\MFCTest1.rc2'.
+  
