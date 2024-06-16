@@ -4381,7 +4381,7 @@ void ApplyMosaic(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight, int mosaic
 
 			int avgPixel = sum / count;
 
-			// 设置当前马赛克单元的所有像素值为平均值
+			// 混合当前马赛克单元的所有像素值与原始值
 			for (int i = 0; i < mosaicSize; i++)
 			{
 				for (int j = 0; j < mosaicSize; j++)
@@ -4391,13 +4391,16 @@ void ApplyMosaic(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight, int mosaic
 
 					if (nx < lSrcWidth && ny < lSrcHeight)
 					{
-						lpSrcStartBits[ny * lSrcWidth + nx] = (CHAR)avgPixel;
+						unsigned char originalPixel = (unsigned char)lpSrcStartBits[ny * lSrcWidth + nx];
+						unsigned char newPixel = (unsigned char)(0.3 * originalPixel + 0.7 * avgPixel);
+						lpSrcStartBits[ny * lSrcWidth + nx] = (CHAR)newPixel;
 					}
 				}
 			}
 		}
 	}
 }
+
 //马赛克
 void CMFCTest1View::OnMosaic()
 {
@@ -4439,8 +4442,7 @@ void CMFCTest1View::OnMosaic()
 	::GlobalUnlock((HGLOBAL)pDoc->GetHObject()); // 解除锁定
 
 }
-// 油画滤镜处理函数
-BOOL Oilpaint(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight, int brushSize, int transparency)
+BOOL Oilpaint(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight, int brushSize, float transparency)
 {
     // 创建目标图像数据缓冲区
     LPSTR lpDstBits = new CHAR[lSrcWidth * lSrcHeight];
@@ -4459,11 +4461,15 @@ BOOL Oilpaint(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight, int brushSize
                 {
                     int nx = x + i;
                     int ny = y + j;
-                    if (nx >= 0 && nx < lSrcWidth && ny >= 0 && ny < lSrcHeight)
-                    {
-                        int pixelValue = (unsigned char)lpSrcStartBits[ny * lSrcWidth + nx];
-                        hist[pixelValue]++;
-                    }
+                    
+                    // 处理边界条件
+                    if (nx < 0) nx = 0;
+                    if (nx >= lSrcWidth) nx = lSrcWidth - 1;
+                    if (ny < 0) ny = 0;
+                    if (ny >= lSrcHeight) ny = lSrcHeight - 1;
+
+                    int pixelValue = (unsigned char)lpSrcStartBits[ny * lSrcWidth + nx];
+                    hist[pixelValue]++;
                 }
             }
 
@@ -4486,7 +4492,14 @@ BOOL Oilpaint(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight, int brushSize
             }
 
             // 在目标图像中设置像素值
-            lpDstBits[y * lSrcWidth + x] = (CHAR)(transparency * maxPixel + (1 - transparency) * lpSrcStartBits[y * lSrcWidth + x]);
+            float srcPixelValue = (unsigned char)lpSrcStartBits[y * lSrcWidth + x];
+            float newValue = transparency * maxPixel + (1 - transparency) * srcPixelValue;
+            
+            // 确保newValue在0到255之间
+            if (newValue < 0) newValue = 0;
+            if (newValue > 255) newValue = 255;
+
+            lpDstBits[y * lSrcWidth + x] = (CHAR)newValue;
         }
     }
 
@@ -4544,13 +4557,15 @@ void CMFCTest1View::OnOilpaint()
 void ApplyRetroStyle(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight)
 {
 	// 增加对比度和亮度
-	float contrast = 1.5f; // 对比度因子
-	int brightness = 20;   // 亮度偏移
+	float contrast = 2.0f; // 更强的对比度因子
+	int brightness = 30;   // 增加亮度偏移
 
 	// 添加噪声
-	float noiseAmount = 0.05f; // 噪声量
+	float noiseAmount = 0.1f; // 增加噪声量
 	srand((unsigned int)time(0)); // 随机数种子
 
+	// 添加仿旧纸张纹理
+	float textureAmount = 0.1f; // 纹理影响量
 	for (int y = 0; y < lSrcHeight; y++)
 	{
 		for (int x = 0; x < lSrcWidth; x++)
@@ -4564,6 +4579,10 @@ void ApplyRetroStyle(LPSTR lpSrcStartBits, int lSrcWidth, int lSrcHeight)
 
 			// 添加噪声
 			newValue += noiseAmount * 255.0f * ((rand() % 100 / 100.0f) - 0.5f);
+
+			// 添加仿旧纸张纹理
+			float texture = (sin(x / 5.0f) + cos(y / 5.0f)) * textureAmount * 255.0f;
+			newValue += texture;
 
 			// 确保值在0到255之间
 			if (newValue < 0)
@@ -5348,7 +5367,7 @@ void CMFCTest1View::OnApplication()
 #include <vector>
 #include <cmath>
 
-// 高斯滤波核
+// 改进后的高斯滤波核
 const double gaussKernel[5][5] = {
 	{1,  4,  6,  4, 1},
 	{4, 16, 24, 16, 4},
@@ -5372,9 +5391,7 @@ const int sobelY[3][3] = {
 
 // 边界处理函数
 inline int clamp(int x, int lower, int upper) {
-	if (x < lower) return lower;
-	if (x > upper) return upper;
-	return x;
+	return x < lower ? lower : (x > upper ? upper : x);
 }
 
 // 高斯滤波
@@ -5573,6 +5590,7 @@ void CMFCTest1View::OnCanny()
 	// 解除锁定
 	::GlobalUnlock((HGLOBAL)pDoc->GetHObject());
 }
+
 
 //实现未遮蔽锐化
 void unsharpMasking(const std::vector<std::vector<unsigned char>>& src, std::vector<std::vector<unsigned char>>& dst, double amount, double threshold) {
